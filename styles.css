@@ -4,7 +4,9 @@ body {
    background-size: cover;
    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-
+.footer{
+ background-color:yellow ;
+}
 div {
    background-color: yellow;
    display: flex;
